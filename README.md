@@ -1,2 +1,2 @@
 # TesteLaravel
-Projeto básico em laravel
+Projeto básico aprendendo Laravel
